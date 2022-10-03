@@ -1,0 +1,13 @@
+{
+    "workbench.colorTheme": "One Dark Pro",
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 3000,
+    "liveServer.settings.donotVerifyTags": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "explorer.confirmDelete": false,
+    "editor.wordWrap": "on",
+    "editor.formatOnSave": true,
+    "editor.fontWeight": "normal"
+    "editor.defaultFormatter":"esbenp.prettier-vscode"
+    
+}
